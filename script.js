@@ -63,7 +63,7 @@ document.addEventListener("DOMContentLoaded", function () {
             copyright_title: "Derechos de Autor",
             copyright_text: "© 2025 Ace Tennis Trainer. Todos los derechos reservados.",
             classes_info: `
-                Clases de tenis adaptadas a tu nivel y objetivos<br>
+                Clases de tenis adaptadas a tu nivel y objetivos
                 Este espacio está diseñado para ti, que buscas aprender, mejorar y disfrutar del tenis con un entrenamiento adaptado a tus necesidades. 
                 A través de este medio, puedes encontrar un entrenador con experiencia internacional que te guiará en tu progreso, 
                 ya sea que estés dando tus primeros golpes o quieras perfeccionar tu técnica y estrategia. 
@@ -122,7 +122,7 @@ document.addEventListener("DOMContentLoaded", function () {
             copyright_title: "Copyright",
             copyright_text: "© 2025 Ace Tennis Trainer. All rights reserved.",
             classes_info: `
-                Tennis classes adapted to your level and goals<br>
+                Tennis classes adapted to your level and goals
                 This space is designed for you, who wants to learn, improve, and enjoy tennis with training adapted to your needs. 
                 Through this medium, you can find an instructor with international experience who will guide you in your progress, 
                 whether you're taking your first swings or want to perfect your technique and strategy. 
@@ -182,7 +182,7 @@ document.addEventListener("DOMContentLoaded", function () {
             copyright_title: "Urheberrechte",
             copyright_text: "© 2025 Ace Tennis Trainer. Alle Rechte vorbehalten.",
             classes_info: `
-                Tennisunterricht angepasst an Ihr Niveau und Ihre Ziele<br>
+                Tennisunterricht angepasst an Ihr Niveau und Ihre Ziele
                 Dieses Angebot ist für Sie konzipiert, die lernen, verbessern und Tennis genießen möchten - mit einem Training, das auf Ihre Bedürfnisse zugeschnitten ist. 
                 Über dieses Medium können Sie einen Trainer mit internationaler Erfahrung finden, der Ihnen bei Ihrem Fortschritt hilft, 
                 ob Sie Ihre ersten Schläge machen oder Ihre Technik und Strategie perfektionieren möchten. 
