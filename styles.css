@@ -13,10 +13,10 @@ body {
 }
 
 header {
-    background-color: #003366;
+    background-color: #003366; /* Asegurar que sea el mismo para el encabezado y el pie de página */
     color: white;
     padding: 30px 20px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0, 0.1);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -37,7 +37,7 @@ header h1 {
     font-size: 2.5rem;
     font-weight: 700;
     margin-bottom: 20px;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0, 0.3);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
     color: white;
 }
 
@@ -114,7 +114,7 @@ p {
 }
 
 footer {
-    background-color: #003366;
+    background-color: #003366; /* Asegurar que sea el mismo para el encabezado y el pie de página */
     color: white;
     padding: 30px 20px;
     margin-top: 50px;
@@ -257,7 +257,7 @@ button:hover, .shop-button:hover {
     padding-bottom: 56.25%;
     border-radius: 15px;
     overflow: hidden;
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0, 0.1);
 }
 
 .hero-video {
@@ -277,7 +277,7 @@ button:hover, .shop-button:hover {
     margin-top: 2rem;
     background-color: white;
     border-radius: 15px;
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0, 0.1);
 }
 
 .hero-content h2 {
